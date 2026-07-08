@@ -153,7 +153,7 @@ Doctor James had the most number of admitted patients
 Doctor Musa had the most number of treated patients
 Doctor Musa attended the highest number of patients
 
-## General department treats the most patients
+## General department treated the most patients
 ## Cardiology department had the most number of admitted record
 
 ##  Surgery department generated the most revenue
