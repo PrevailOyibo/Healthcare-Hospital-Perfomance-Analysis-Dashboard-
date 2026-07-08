@@ -96,7 +96,7 @@ COUNTA
 IF (Nested IF)
 
 
-Calculations Performed The analysis included:
+## Calculations Performed in the analysis included:
 
 Department treating the highest number of patients
 
