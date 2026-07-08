@@ -150,7 +150,9 @@ Number of patients who were admitted 4
 
 ## Total number of Doctors= 4
 Doctor James had the most number of admitted patients
+
 Doctor Musa had the most number of treated patients
+
 Doctor Musa attended the highest number of patients
 
 ## General department treated the most patients
