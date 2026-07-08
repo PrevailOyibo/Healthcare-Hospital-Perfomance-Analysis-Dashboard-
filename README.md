@@ -1,5 +1,5 @@
 
-# Healthcare Hospital Perfomance analysis Project
+# Healthcare Hospital Performance analysis Project
 
 
 ##  Problem Statement
